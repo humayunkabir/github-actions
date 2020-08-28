@@ -1,0 +1,23 @@
+{
+  "name": "github-actions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {
+    "gh-pages": "^3.1.0"
+  },
+  "scripts": {
+    "deploy": "gh-pages -d live"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/humayunkabir/github-actions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/humayunkabir/github-actions/issues"
+  },
+  "homepage": "https://github.com/humayunkabir/github-actions#readme"
+}
